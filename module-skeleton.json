@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-saved-lists-vue-inertia",
+  "capabilityKey": "planned:ecommerce:saved-lists",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-saved-lists-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/saved-lists.md",
+  "presentationPlan": "projects/ecommerce/vue/saved-lists.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
